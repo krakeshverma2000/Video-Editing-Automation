@@ -1,8 +1,6 @@
 # Video-Editing-Automation
 A Python-based Video Editing Automation with Motion Detection using OpenCV and FFMPEG (MoviePy)
 
-[Ref: PyImageSearch awesome blog post on Motion Detection](https://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
-
 - Working on different approach to automate Video Editing [check here](https://github.com/AP-Atul/Torpido)
 
 ## Directories
