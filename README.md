@@ -7,6 +7,7 @@ A Python-based Video Editing Automation with Motion Detection using OpenCV and F
 1. combo_creator: Creates a single video by combining multiple videos from a single folder
 2. vea: main directory that performs video editing based on motion activity.
 
+
 ## Execution
 1. Install ffmpeg, required for video trimming
 2. Install all the requirements  
